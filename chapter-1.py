@@ -1,3 +1,4 @@
+# chapter-1： matplotlib图表组成元素
 import matplotlib.pyplot as plt
 import numpy as np
 

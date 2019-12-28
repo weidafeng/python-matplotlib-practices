@@ -1,5 +1,5 @@
-# chapter 7
-# 共享坐标轴
+# chapter 8
+# 坐标轴高阶应用
 
 import matplotlib.pyplot as plt
 import matplotlib as mpl
